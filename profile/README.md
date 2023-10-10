@@ -15,4 +15,4 @@
 ## Mission
 
 Our goal is to make crypto payments fast, reliable & fully decentralized as they are meant to be. We beleive that crypto is the best system for payment in the world 
-and our products are a testimony to that. Our products ensure that the businesses around the world are ready for the web3 revolution.
+and our products are a testimony to that. Our products ensure that businesses around the world are ready for the web3 revolution.
