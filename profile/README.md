@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/L-PAY"><img src="https://github.com/masxxiii/resources/blob/main/logo/block.png?raw=true" alt="L-PAY" width="300"></a>
+  <a href="https://github.com/L-PAY"><img src="https://github.com/L-PAY/brand/blob/main/icons/logo.png?raw=true" alt="L-PAY" width="300"></a>
   <br>
   L PAY
   <br>
