@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">L Pay brings next generation <a href="https://en.wikipedia.org/wiki/Cryptocurrency">crypto</a> payment system to your fingertips. With L Pay crypto payments are a breeze.</h4>
+<h4 align="center">L Pay brings the next generation <a href="https://en.wikipedia.org/wiki/Cryptocurrency">crypto</a> payment system to your fingertips. With L Pay crypto payments are a breeze.</h4>
 
 <p align="center">
   • <a href="#mission">Mission</a> •
